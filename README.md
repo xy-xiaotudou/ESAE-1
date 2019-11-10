@@ -11,7 +11,14 @@ Xue Gu, Ziyao Meng, Yanchun Liang, Dong Xu, Han Huang,Xiaosong Han, and Chunguo 
 - pandas
 
 ## Methods
+
+- The encoding scheme
+
 ![The encoding scheme](https://github.com/xy-xiaotudou/ESAE/blob/master/method/encoding%20scheme.png)
+
+- The evolution flow
+
+![The evolution flow](https://github.com/xy-xiaotudou/ESAE/blob/master/method/evolution%20flow.png)
 
 
 ## Run example
@@ -22,3 +29,6 @@ Adjust the batch size if out of memory (OOM) occurs. It dependes on your gpu mem
 
 python main.py --dataset fashionmnist --classes 10 
 
+## Results
+
+![Result](https://github.com/xy-xiaotudou/ESAE/blob/master/method/result.png)
