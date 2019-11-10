@@ -28,6 +28,8 @@ Adjust the batch size if out of memory (OOM) occurs. It dependes on your gpu mem
 - Search
 
 python main.py --dataset fashionmnist --classes 10 
+or
+python main.py --dataset cifar10 --classes 10 
 
 ## Results
 
